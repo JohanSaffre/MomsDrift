@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define LOGITECHWHEELPLUGIN_ILogitechWheelPlugin_generated_h
 
-#define HostProject_Plugins_LogitechWheelPlugin_Source_LogitechWheelPlugin_Public_ILogitechWheelPlugin_h_31_GENERATED_BODY \
+#define MomsDrift_Plugins_LogitechWheelPlugin_Source_LogitechWheelPlugin_Public_ILogitechWheelPlugin_h_31_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDeviceState_Statics; \
 	LOGITECHWHEELPLUGIN_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> LOGITECHWHEELPLUGIN_API UScriptStruct* StaticStruct<struct FDeviceState>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_LogitechWheelPlugin_Source_LogitechWheelPlugin_Public_ILogitechWheelPlugin_h
+#define CURRENT_FILE_ID MomsDrift_Plugins_LogitechWheelPlugin_Source_LogitechWheelPlugin_Public_ILogitechWheelPlugin_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

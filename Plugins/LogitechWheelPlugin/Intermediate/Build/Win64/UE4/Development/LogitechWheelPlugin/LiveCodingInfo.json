@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LogitechWheelPlugin.cpp.obj": [
+			"LogitechBPLibrary.cpp.obj",
+			"LogitechWheelInputDevice.cpp.obj",
+			"LogitechWheelPlugin.cpp.obj"
+		],
+		"Module.LogitechWheelPlugin.gen.cpp.obj": [
+			"ILogitechWheelPlugin.gen.cpp.obj",
+			"LogitechBPLibrary.gen.cpp.obj",
+			"LogitechWheelPlugin.init.gen.cpp.obj"
+		]
+	}
+}
